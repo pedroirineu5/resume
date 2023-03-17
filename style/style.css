@@ -1,0 +1,27 @@
+::-webkit-scrollbar{display: none;}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+img{
+    max-width: 400px;
+    max-height: 200px;
+}
+
+iframe{
+    display: block;
+
+}
+
+div{
+    display: flex;
+    justify-items: center;
+    flex-direction: column;
+    align-items: center;
+}
+
