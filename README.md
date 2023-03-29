@@ -1,3 +1,3 @@
 # resume
-Just ignore it![ENG]\n
+Just ignore it![ENG]<br>
 apenas ignore![PT-BR]
